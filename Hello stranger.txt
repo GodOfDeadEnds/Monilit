@@ -1,0 +1,3 @@
+Hello stranger
+
+This is my first test from local repository.
