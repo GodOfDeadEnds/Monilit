@@ -1,0 +1,57 @@
+﻿name: Deploy Monilit
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: Quartz/package-lock.json
+
+      - name: Install dependencies
+        working-directory: Quartz
+        run: npm ci
+
+      - name: Install Quartz plugins
+        working-directory: Quartz
+        run: npx quartz plugin install
+
+      - name: Build Quartz
+        working-directory: Quartz
+        run: npx quartz build
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: Quartz/public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,8 @@
+# Quartz dependencies
+Quartz/node_modules/
+
+# Quartz generated site
+Quartz/public/
+
+# Obsidian workspace settings
+OBSIDIAN-Monolit/.obsidian/
