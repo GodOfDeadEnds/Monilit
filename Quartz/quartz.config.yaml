@@ -3,7 +3,7 @@ configuration:
   pageTitle: Cranch
   pageTitleSuffix: " | Cranch"
   enableSPA: false
-  enablePopovers: false
+  enablePopovers: true
   analytics: null
   locale: en-US
   baseUrl: godofdeadends.github.io/Monilit
