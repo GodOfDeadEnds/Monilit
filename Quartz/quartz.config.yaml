@@ -68,10 +68,12 @@ plugins:
     order: 40
   - source: "@quartz-community/table-of-contents"
     enabled: true
+    options:
+      maxDepth: 1
     order: 50
     layout:
-      position: right
-      priority: 30
+    position: right
+    priority: 30
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
