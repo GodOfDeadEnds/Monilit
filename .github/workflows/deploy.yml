@@ -30,10 +30,6 @@ jobs:
         working-directory: Quartz
         run: npm ci
 
-      - name: Install Quartz plugins
-        working-directory: Quartz
-        run: npx quartz plugin install
-
       - name: Build Quartz
         working-directory: Quartz
         run: npx quartz build
