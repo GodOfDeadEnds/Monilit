@@ -6,7 +6,7 @@ configuration:
   enablePopovers: false
   analytics: null
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: godofdeadends.github.io/Monilit
   ignorePatterns:
     - private
     - templates
