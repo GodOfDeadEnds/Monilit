@@ -1,9 +1,0 @@
-{
-  "id": "obsidian2discord",
-  "name": "Obsidian2Discord",
-  "version": "0.1.0",
-  "minAppVersion": "1.4.0",
-  "description": "Send a Markdown section from Obsidian to Discord using a discord-dice button.",
-  "author": "Local",
-  "isDesktopOnly": false
-}
