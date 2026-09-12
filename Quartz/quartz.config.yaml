@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: МИНИЛИТ 2.67
   pageTitleSuffix: ""
   enableSPA: false
   enablePopovers: false
@@ -130,7 +130,7 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 50
