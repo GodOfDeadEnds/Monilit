@@ -133,8 +133,6 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
-    options:
-      folderClickBehavior: "link"  # Эта строка меняет поведение
     layout:
       position: left
       priority: 50
