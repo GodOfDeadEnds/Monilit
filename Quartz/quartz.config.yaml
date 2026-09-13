@@ -72,8 +72,8 @@ plugins:
       maxDepth: 1
     order: 50
     layout:
-    position: right
-    priority: 30
+      position: right
+      priority: 30
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
