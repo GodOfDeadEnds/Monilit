@@ -142,7 +142,7 @@ plugins:
       position: right
       priority: 10
   - source: "@quartz-community/search"
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 20
@@ -150,7 +150,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: false
+    enabled: true
     layout:
       position: right
       priority: 50
@@ -165,7 +165,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -175,7 +175,7 @@ plugins:
       position: left
       priority: 10
   - source: "@quartz-community/darkmode"
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 30
@@ -193,7 +193,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options: {}
