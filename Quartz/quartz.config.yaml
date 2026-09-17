@@ -91,7 +91,7 @@ plugins:
     enabled: false
     order: 85
   - source: "@quartz-community/hard-line-breaks"
-    enabled: true
+    enabled: false
     order: 90
   - source: "@quartz-community/ox-hugo"
     enabled: false
