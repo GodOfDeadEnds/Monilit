@@ -19,7 +19,7 @@
 [[МАГ]]
 [[ВОР]]
 [[ЖРЕЦ]]
-[[ПРОГРЕСС ПЕРСОНАЖА]]
+[[3.ПРОГРЕСС ПЕРСОНАЖА]]
 [КАЛЬКУЛЯТОР ОПЫТА](https://docs.google.com/spreadsheets/d/1DTTXNGaeBcIY4pl8tWIPNPZZ90lEoELK7O6fTTenCNY/edit?pli=1&gid=0#gid=0)
 ## АМУНИЦИЯ
 [[ВАРИАНТЫ ОРУЖИЯ]]
