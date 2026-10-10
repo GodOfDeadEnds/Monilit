@@ -5,6 +5,6 @@ filters:
 views:
   - type: list
     name: Нумерованный список
-    markers: number
     order:
       - file.name
+    markers: number
