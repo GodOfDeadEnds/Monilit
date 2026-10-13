@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: godofdeadends.github.io/Monilit
+  baseUrl: MOCHET555.github.io/Crunch
   ignorePatterns:
     - private
     - templates

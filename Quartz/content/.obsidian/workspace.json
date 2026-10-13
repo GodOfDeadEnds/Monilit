@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "9eafbc6800ae6bca",
+    "type": "split",
+    "children": [
+      {
+        "id": "622923a2b0ac642d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "072786efa0f6e93c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основные механики/♞НАЕМНИКИ/Подразделения и отряды/ОТРЯДЫ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОТРЯДЫ"
+            }
+          },
+          {
+            "id": "8c8479b6350a20b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основные механики/♞НАЕМНИКИ/Подразделения и отряды/СВЯЗЬ ОТРЯДА.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "СВЯЗЬ ОТРЯДА"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e8c60b05a9dcd0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c864925670c7de0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00e4fa0d06a6186a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "3b2ed0df646afe2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4826e5946a62ec93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "5adecd19b4a45b5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "910d80b4adef0770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9ea895904a05f87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "КЛАССЫ/МАГ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "13174fb3f09bc3fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "КЛАССЫ/МАГ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "a8d33b9641702de2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "eddab00063ade536",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "128afe1f16b0dfa7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "КЛАССЫ/МАГ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "00e4fa0d06a6186a",
+  "lastOpenFiles": [
+    "Основные механики/♞НАЕМНИКИ/Подразделения и отряды/ПРОВЕРКА МОРАЛИ ОТРЯДА.md",
+    "Основные механики/♞НАЕМНИКИ/Подразделения и отряды/ОТРЯДЫ.md",
+    "Основные механики/♞НАЕМНИКИ/Подразделения и отряды/ПОДРАЗДЕЛЕНИЕ.md",
+    "Основные механики/1.ДЕЙСТВИЯ И СПОСОБНОСТИ/Действия/🗲РЕАКЦИЯ.md",
+    "Утилити/БАЗА/🗲.md",
+    "Основные механики/1.ДЕЙСТВИЯ И СПОСОБНОСТИ/🗃️БАЗОВЫЕ СПОСОБНОСТИ/5.Реакция/🗲СПЛОТИТЬ.md",
+    "Основные механики/1.ДЕЙСТВИЯ И СПОСОБНОСТИ/🗃️БАЗОВЫЕ СПОСОБНОСТИ/5.Реакция/🗲ПРИКРЫТЬ.md",
+    "Основные механики/1.ДЕЙСТВИЯ И СПОСОБНОСТИ/Список базовых способностей.md",
+    "Основные механики/♞НАЕМНИКИ/Подразделения и отряды/СВЯЗЬ ОТРЯДА.md",
+    "Полезно знать/⭗СВОЙСТВА/⭗УКЛОНЕНИЕ.md",
+    "Основные механики/♞НАЕМНИКИ/Подразделения и отряды",
+    "Полезно знать/⭗СВОЙСТВА/⭗ПОТЕРЯ МОРАЛИ.md",
+    "Полезно знать/⭗СВОЙСТВА/⭗ПОВРЕЖДЕН.md",
+    "Основные механики/♞НАЕМНИКИ/СПУТНИКИ.md",
+    "Основные механики/1.ДЕЙСТВИЯ И СПОСОБНОСТИ/Действия/⮞ ПСЕВДОДЕЙСТВИЕ.md",
+    "Основные механики/0.НАЧАЛО/Правила работы очереди действий..md",
+    "Основные механики/0.НАЧАЛО/1.СОЗДАНИЕ ПЕРСОНАЖА.md",
+    "Основные механики/0.НАЧАЛО/5.САМОЦВЕТЫ.md",
+    "Утилити/БАЗА/СПАСБРОСОК.md",
+    "Основные механики/2.АМУНИЦИЯ/ОРУЖИЕ/🗃️СПИСОК СВОЙСТВ ОРУЖИЯ/УДОБНОЕ.md",
+    "Основные механики/2.АМУНИЦИЯ/ОРУЖИЕ/🗃️СПИСОК СВОЙСТВ ОРУЖИЯ/РАССЕКАЮЩЕЕ.md",
+    "Основные механики/2.АМУНИЦИЯ/ОРУЖИЕ/🗃️СПИСОК СВОЙСТВ ОРУЖИЯ/НАДЕЖНОЕ.md",
+    "Основные механики/2.АМУНИЦИЯ/ОРУЖИЕ/🗃️СПИСОК СВОЙСТВ ОРУЖИЯ/КРОВОЖАДНОЕ.md",
+    "Основные механики/2.АМУНИЦИЯ/ОРУЖИЕ/🗃️СПИСОК СВОЙСТВ ОРУЖИЯ/КАСКАДНОЕ.md",
+    "Основные механики/2.АМУНИЦИЯ/БРОНЯ/🗃️СПИСОК СВОЙСТВ БРОНИ/Усиливающий.md",
+    "Основные механики/2.АМУНИЦИЯ/БРОНЯ/🗃️СПИСОК СВОЙСТВ БРОНИ/Настороженный.md",
+    "Основные механики/2.АМУНИЦИЯ/БРОНЯ/🗃️СПИСОК СВОЙСТВ БРОНИ/Кровавый.md",
+    "Основные механики/4.✪МАГИЯ/🗃️СПИСОК ЗАКЛИНАНИЙ/Ранг 1/магия ранг1.base",
+    "Основные механики/2.АМУНИЦИЯ/ПРЕДМЕТЫ ДЛЯ ЛЕВОЙ РУКИ",
+    "Ресурсы мастера",
+    "Основные механики/1.ДЕЙСТВИЯ И СПОСОБНОСТИ/🗃️БАЗОВЫЕ СПОСОБНОСТИ/5.Реакция/реакция.base",
+    "Основные механики/3.⛭НАВЫКИ/🗃️СПИСОК НАВЫКОВ/Бой/навыки бой.base",
+    "Утилити/📦ATTACHMENTS/index.png",
+    "Основные механики/1.ДЕЙСТВИЯ И СПОСОБНОСТИ/🗃️БАЗОВЫЕ СПОСОБНОСТИ/4.Финт/финт.base",
+    "Основные механики/♞НАЕМНИКИ",
+    "Основные механики/АМУНИЦИЯ/БРОНЯ/Характеристики брони",
+    "Основные механики/АМУНИЦИЯ/БРОНЯ/Новая папка",
+    "!ПЕРСОНАЖИ/ЗОД.canvas",
+    "📦ATTACHMENTS/Pasted image 20260913173638.png",
+    "Без названия.canvas"
+  ]
+}
